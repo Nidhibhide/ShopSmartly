@@ -14,7 +14,6 @@ The project was built using the **MERN stack**, ensuring scalability and efficie
 - **Express.js**
 - **React.js**
 - **Node.js**
-- **REST APIs**
 - **Material-UI**
 - **Tailwind CSS**
 
