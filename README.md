@@ -17,15 +17,14 @@ The project was built using the **MERN stack**, ensuring scalability and efficie
 - **REST APIs**
 - **Material-UI**
 - **Tailwind CSS**
-- **JWT Authentication**
+
 
 ## Features
 
 1. **User Authentication**
    - **Login/Signup:** Secure authentication and registration system.
    - **Forgot Password:** Recovery options for user accounts.
-   - **JWT Authentication:** Ensures secure session management.
-
+  
 2. **Price Comparison**
    - **Search Products:** Intuitive search for desired products.
    - **Compare Prices:** Real-time price comparisons across three e-commerce platforms.
@@ -44,6 +43,4 @@ The project was built using the **MERN stack**, ensuring scalability and efficie
 
 For any questions or feedback, feel free to reach out to me at [nidhibhide144@gmail.com](mailto:nidhibhide144@gmail.com). 
 
-## GitHub Repository
 
-View the codebase and project updates on my GitHub: [GitHub Profile](https://github.com/Nidhibhide).
